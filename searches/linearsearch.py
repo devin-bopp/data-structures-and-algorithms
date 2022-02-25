@@ -1,4 +1,4 @@
-from test_lists import test_list
+from test_lists.test_lists import test_list
 
 # linear search for finding the first instance
 def linear_search(li, target):

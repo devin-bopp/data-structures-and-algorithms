@@ -19,7 +19,7 @@ def quicksort(li):
     
     return left + [pivot] + right
 
-from test_lists import test_list
+from test_lists.test_lists import test_list
 
 import timeit
 
